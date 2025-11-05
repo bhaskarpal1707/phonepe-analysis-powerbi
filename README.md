@@ -3,6 +3,8 @@
 
 ---
 [image](https://github.com/bhaskarpal1707/phonepe-analysis-powerbi/blob/main/PhonePe%20Image.jpg)
+<img width="1067" height="600" alt="image" src="https://github.com/user-attachments/assets/19736868-537c-483d-a2aa-8b31221c44ef" />
+
 ---
 
 ## 📋 Table of Contents
