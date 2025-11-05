@@ -2,7 +2,7 @@
 ### 🔍 End-to-End Business Intelligence Project by Bhaskar Pal  
 
 ---
-https://github.com/bhaskarpal1707/phonepe-analysis-powerbi/blob/main/PhonePe%20Image.jpg
+[image](https://github.com/bhaskarpal1707/phonepe-analysis-powerbi/blob/main/PhonePe%20Image.jpg)
 ---
 
 ## 📋 Table of Contents
